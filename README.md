@@ -1,12 +1,13 @@
 # AngularTodo
-A simple todo with Angular - first project with Angular
-project developed during the [IGTI](https://www.igti.com.br/cursos/mba-em-desenvolvimento-front-end/) front-end development MBA
-Teacher: [Raphael Gomide](https://github.com/rrgomide)
+* A simple todo with Angular - first project with Angular
+* project developed during the [IGTI](https://www.igti.com.br/cursos/mba-em-desenvolvimento-front-end/) front-end development MBA
+* Teacher: [Raphael Gomide](https://github.com/rrgomide)
 
 
 
 ## Angular install 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.11.
+* This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.11.
+
 `npm i -g @angular/cli`
 
 ## Dependencies install
